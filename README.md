@@ -1,6 +1,5 @@
 🔗Java_lab-by-kajal Assignment- kajal gangwar 
-BCS351 Java Lab Solutions
-Complete Java lab project for Introduction to Programming Using Java Lab (BCS351).
+Introduction to Programming Using Java 
 
 🔗Project contents
 15 assignment folders (Assignment-01 to Assignment-15)
