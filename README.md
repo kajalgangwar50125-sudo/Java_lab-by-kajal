@@ -1,21 +1,43 @@
 🔗Java_lab-by-kajal Assignment- kajal gangwar 
+BCS351 Java Lab Solutions
+Complete Java lab project for Introduction to Programming Using Java Lab (BCS351).
 
-🔗This folder contains 49 separate Java programs for the 15 assignments in the supplied BCS351 lab sheet. Each task folder contains:
+🔗Project contents
+15 assignment folders (Assignment-01 to Assignment-15)
+Each assignment folder contains:
+🔗Main.java — all task programs for that assignment, each in a separate method
+output.txt — expected output for all tasks in order
+🔗README.md — aim, task list, files, and compile/run instructions
+Total: 15 assignments and 49 tasks.
 
-🔗Main.java — the Java source code (each file uses the class name Main, as required by the lab sheet).
-🔗output.txt — the expected program output.
-🔗Before submission
-Open each Main.java file and replace Your Name and Your Roll Number in the first two comment lines.
-Read and understand each program, then run it yourself in your Codespace.
-Confirm the terminal output matches the corresponding output.txt file.
-Keep one task per folder so the repeated class name Main does not cause file conflicts.
-Run one task from the repository root
-For example, to run Assignment 1, Task 1:
+🔗Assignment index
+Hello World, Variables and Arithmetic
+Decisions and Loops with Numbers
+Star and Number Patterns
+Writing Functions
+Arrays: Traversal and Counting
+Arrays: Reverse and Duplicates
+Counting Steps and Complexity
+Matrices: Transpose and Row Sums
+Matrices: Rows and Columns
+Switch and ArrayList
+Bubble Sort and Selection Sort
+Insertion Sort
+Strings: Methods and Palindromes
+Characters: Counting and Positions
+StringBuilder Methods
+Requirements
 
-🔗javac Assignment-01/Task-01/Main.java
-java -cp Assignment-01/Task-01 Main
-For any other task, replace the folder path with its assignment and task folder. Example for Assignment 15, Task 3:
+🔗Java JDK 8 or later
+Command Prompt / Terminal
+Run any assignment
+Open the required Assignment-XX folder.
+Compile: javac Main.java
+Run: java Main
+🔗Compare the console output with that folder's output.txt.
 
-🔗javac Assignment-15/Task-03/Main.java
-java -cp Assignment-15/Task-03 Main
-The code follows the task descriptions and sample outputs in the uploaded BCS351 lab assignment PDF. Please use your own name and roll number and follow your instructor's submission rules.
+Each folder is independent, so the same class name (Main) can be used in every assignment folder.
+
+Student Details
+Name: kajal gangwar 
+Student ID: BCS2025547
