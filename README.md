@@ -10,30 +10,30 @@ output.txt — expected output for all tasks in order
 Total: 15 assignments and 49 tasks.
 
 🔗Assignment index
-Hello World, Variables and Arithmetic
-Decisions and Loops with Numbers
-Star and Number Patterns
-Writing Functions
-Arrays: Traversal and Counting
-Arrays: Reverse and Duplicates
-Counting Steps and Complexity
-Matrices: Transpose and Row Sums
-Matrices: Rows and Columns
-Switch and ArrayList
-Bubble Sort and Selection Sort
-Insertion Sort
-Strings: Methods and Palindromes
-Characters: Counting and Positions
-StringBuilder Methods
-Requirements
+"Hello World, Variables and Arithmetic"
+"Decisions and Loops with Numbers"
+"Star and Number Patterns"
+"Writing Functions"
+"Arrays: Traversal and Counting"
+"Arrays: Reverse and Duplicates"
+"Counting Steps and Complexity"
+"Matrices: Transpose and Row Sums"
+"Matrices: Rows and Columns"
+"Switch and ArrayList"
+"Bubble Sort and Selection Sort"
+"Insertion Sort"
+"Strings: Methods and Palindromes"
+"Characters: Counting and Positions"
+"StringBuilder Methods"
 
-🔗Java JDK 8 or later
+🔗Requirements
+Java JDK 8 or later
 Command Prompt / Terminal
 Run any assignment
 Open the required Assignment-XX folder.
-Compile: javac Main.java
+🔗Compile: javac Main.java
 Run: java Main
-🔗Compare the console output with that folder's output.txt.
+Compare the console output with that folder's output.txt.
 
 Each folder is independent, so the same class name (Main) can be used in every assignment folder.
 
